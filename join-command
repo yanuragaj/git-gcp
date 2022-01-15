@@ -1,0 +1,1 @@
+kubeadm join 52.66.15.248:6443 --token on6i7x.dqqwhk8zftyyy3vo --discovery-token-ca-cert-hash sha256:eff77902d70814565c8f85115547d4b848b654be13bb4537add57de1a84fedf7 
